@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/NatureMart/',
+  base: '/nature-mart-ecommerce/',
   plugins: [react(),
     tailwindcss(),
   ],
