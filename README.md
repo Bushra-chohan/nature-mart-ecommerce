@@ -1,5 +1,7 @@
 # Nature Mart E-commerce Platform
 
+🌿 **Live Site:** [https://bushra-chohan.github.io/nature-mart-ecommerce/](https://bushra-chohan.github.io/nature-mart-ecommerce/)
+
 ## Project Overview
 Nature Mart is a modern e-commerce website built with React and Tailwind CSS. It provides an intuitive platform for browsing products, adding items to a wishlist, and managing a shopping cart.  
 
