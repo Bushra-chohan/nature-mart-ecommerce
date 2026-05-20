@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/nature-mart-ecommerce">
       
         <PrimaryNavbar/>
         <SecondaryNavbar/><hr className="mt-3 text-gray-300"/>
